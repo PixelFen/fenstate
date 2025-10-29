@@ -15,13 +15,13 @@
 
 # Summary status message
 - id: isDown
-  translation: Experiencing major issues
+  translation: Major Outage
 - id: isDisrupted
-  translation: Experiencing disruptions
+  translation: Minor Outage
 - id: isNotice
-  translation: Please read announcement
+  translation: Announcement
 - id: isOk
-  translation: No issues detected
+  translation: Everything is running
 
 # No JS warning
 - id: noScriptingIntro
